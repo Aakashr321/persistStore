@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: -webkit-linear-gradient(
+    left,
+    rgb(23rgb (158, 153, 153) 177, 166, 166)
+  );
+  background: linear-gradient(to right, rgb(199, 196, 196), rgb(182, 175, 175));
+  font-family: "Roboto", sans-serif;
+  font-size: 120%;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
